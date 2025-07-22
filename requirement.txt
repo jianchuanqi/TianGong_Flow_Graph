@@ -1,0 +1,7 @@
+python-dotenv
+neo4j
+openai
+faiss-cpu
+pandas
+numpy
+tqdm
