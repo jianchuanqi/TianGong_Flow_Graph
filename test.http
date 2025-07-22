@@ -1,0 +1,1 @@
+GET http://127.0.0.1:8000/api/related-records?id=857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0

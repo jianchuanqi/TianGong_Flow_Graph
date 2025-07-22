@@ -1,0 +1,146 @@
+﻿ID,Name,Compartment,Subcompartment,CAS Number,Synonym,Formula,Database
+20664d0e-24e3-4daa-8c5c-2ade6e0c2723,Formaldehyde,Emission to air,high population density,000050-00-0,,CH2O,table
+20664d0e-24e3-4daa-8c5c-2ade6e0c2723,Formaldehyde,Emission to air,high population density,000050-00-0,,CH2O,openLCA
+9167dca7-615e-435c-8ba6-dbbf50e50e34,Formaldehyde,Emission to air,low population density,000050-00-0,,CH2O,table
+9167dca7-615e-435c-8ba6-dbbf50e50e34,Formaldehyde,Emission to air,low population density,000050-00-0,,CH2O,openLCA
+1258b87f-6a94-4c0f-a51a-cef98a3bf534,Formaldehyde,Emission to air,"low population density, long-term",000050-00-0,,CH2O,table
+1258b87f-6a94-4c0f-a51a-cef98a3bf534,Formaldehyde,Emission to air,"low population density, long-term",000050-00-0,,CH2O,openLCA
+a861cfae-a310-4e9d-b9eb-5d555c9a684c,Formaldehyde,Emission to air,unspecified,000050-00-0,,CH2O,table
+a861cfae-a310-4e9d-b9eb-5d555c9a684c,Formaldehyde,Emission to air,unspecified,000050-00-0,,CH2O,openLCA
+7ad7644f-8796-438e-a15b-86345622886b,Lactic acid,Emission to air,high population density,000050-21-5,2-hydroxypropanoic acid,C3H6O3,table
+7ad7644f-8796-438e-a15b-86345622886b,Lactic acid,Emission to air,high population density,000050-21-5,2-hydroxypropanoic acid,C3H6O3,openLCA
+d7000952-5775-43af-a422-ef7645f260d5,Lactic acid,Emission to air,low population density,000050-21-5,2-hydroxypropanoic acid,C3H6O3,table
+d7000952-5775-43af-a422-ef7645f260d5,Lactic acid,Emission to air,low population density,000050-21-5,2-hydroxypropanoic acid,C3H6O3,openLCA
+ecc93a94-3bd5-4ecc-a6cc-d526e417c6fb,Lactic acid,Emission to air,"low population density, long-term",000050-21-5,2-hydroxypropanoic acid,C3H6O3,table
+ecc93a94-3bd5-4ecc-a6cc-d526e417c6fb,Lactic acid,Emission to air,"low population density, long-term",000050-21-5,2-hydroxypropanoic acid,C3H6O3,openLCA
+35a27f5c-487b-48c6-bfd5-0a2dbacf2045,Lactic acid,Emission to air,unspecified,000050-21-5,2-hydroxypropanoic acid,C3H6O3,table
+35a27f5c-487b-48c6-bfd5-0a2dbacf2045,Lactic acid,Emission to air,unspecified,000050-21-5,2-hydroxypropanoic acid,C3H6O3,openLCA
+93588cf6-3489-535c-9e3d-155aa5b256a2,Clofenotane,Emission to air,low population density,000050-29-3,,C14H9Cl5,openLCA
+471f6677-a71e-5b71-9e79-3ed1509d01d0,Clofenotane,Emission to air,unspecified,000050-29-3,,C14H9Cl5,openLCA
+c6b48901-2e98-5091-9005-4bdde53090ed,"2,3,6-Trichlorobenzoic acid",Emission to air,low population density,000050-31-7,,C7H3Cl3O2,openLCA
+a070a663-4011-5686-a7d9-8697678c1d6a,"2,3,6-Trichlorobenzoic acid",Emission to air,unspecified,000050-31-7,,C7H3Cl3O2,openLCA
+2cbb504a-ce2f-40e9-9d38-e130e95a1242,Benzo(a)pyrene,Emission to air,high population density,000050-32-8,"benzo[a]pyrene
+BaP",C20H12,table
+2cbb504a-ce2f-40e9-9d38-e130e95a1242,Benzo(a)pyrene,Emission to air,high population density,000050-32-8,benzo[a]pyrene; BaP,C20H12,openLCA
+81c4ba39-8a3f-4a43-97b4-401605bbebf5,Benzo(a)pyrene,Emission to air,low population density,000050-32-8,"benzo[a]pyrene
+BaP",C20H12,table
+81c4ba39-8a3f-4a43-97b4-401605bbebf5,Benzo(a)pyrene,Emission to air,low population density,000050-32-8,benzo[a]pyrene; BaP,C20H12,openLCA
+32d98afc-e42b-46f6-b53e-9c949875ab20,Benzo(a)pyrene,Emission to air,"low population density, long-term",000050-32-8,"BaP
+benzo[a]pyrene",C20H12,table
+32d98afc-e42b-46f6-b53e-9c949875ab20,Benzo(a)pyrene,Emission to air,"low population density, long-term",000050-32-8,BaP; benzo[a]pyrene,C20H12,openLCA
+5e13c2ab-5466-4ff5-816d-702dfdf25f76,Benzo(a)pyrene,Emission to air,unspecified,000050-32-8,"benzo[a]pyrene
+BaP",C20H12,table
+5e13c2ab-5466-4ff5-816d-702dfdf25f76,Benzo(a)pyrene,Emission to air,unspecified,000050-32-8,benzo[a]pyrene; BaP,C20H12,openLCA
+619de92e-6f40-5c7e-820f-4bdbbce5bcb9,Niclosamide,Emission to air,low population density,000050-65-7,,C13H8Cl2N2O4,openLCA
+22274955-8108-5747-88d0-4a59c420928f,Niclosamide,Emission to air,unspecified,000050-65-7,,C13H8Cl2N2O4,openLCA
+31ee1b37-0c14-5f69-bfb9-e58eeea6324f,Piperonyl butoxide,Emission to air,low population density,000051-03-6,,C19H30O5,openLCA
+a5833c1e-34fb-56f5-bc53-2f0068f80b79,Piperonyl butoxide,Emission to air,unspecified,000051-03-6,,C19H30O5,openLCA
+ca63d222-c7e0-5b57-8a27-0eba07942700,Bronopol,Emission to air,low population density,000052-51-7,,C3H6BrNO4,openLCA
+3ab339a6-f749-5f90-af7a-feb517f17740,Bronopol,Emission to air,unspecified,000052-51-7,,C3H6BrNO4,openLCA
+37198238-6552-54b4-852f-6d037bca7033,Trichlorfon,Emission to air,low population density,000052-68-6,,C4H8Cl3O4P,openLCA
+e9b1979d-b339-57eb-b31f-fda813962aae,Trichlorfon,Emission to air,unspecified,000052-68-6,,C4H8Cl3O4P,openLCA
+7d2de00e-9ebc-4b51-b802-defc24ed6c27,"Dibenz(a,h)anthracene",Emission to air,low population density,000053-70-3,"naphtho[1,2-b]phenanthrene",C22H14,openLCA
+23a4dfc7-c82e-4425-abf6-0195f78f3363,"Dibenz(a,h)anthracene",Emission to air,unspecified,000053-70-3,"naphtho[1,2-b]phenanthrene",C22H14,openLCA
+966ab66b-abaa-590b-96cb-549574e4f281,Thimerosal,Emission to air,low population density,000054-64-8,,C9H9HgNaO2S,openLCA
+656bf949-e32e-5e24-b760-016dd200cc9b,Thimerosal,Emission to air,unspecified,000054-64-8,,C9H9HgNaO2S,openLCA
+318d384a-bc73-589e-ba28-ec58ce9d93b5,Fenthion,Emission to air,low population density,000055-38-9,,C10H15O3PS2,openLCA
+b31bda01-8038-51fa-b27e-a18978df7627,Fenthion,Emission to air,unspecified,000055-38-9,,C10H15O3PS2,openLCA
+5c97dd6c-aaa5-4477-aaf8-dbd0674499c4,Carbon tetrachloride,Emission to air,high population density,000056-23-5,"R-10
+tetrachloromethane
+perchloromethane
+Freon 10
+Methane, tetrachloro-",CCl4,table
+5c97dd6c-aaa5-4477-aaf8-dbd0674499c4,Carbon tetrachloride,Emission to air,high population density,000056-23-5,"R-10; tetrachloromethane; perchloromethane; Freon 10; Methane, tetrachloro-",CCl4,openLCA
+0f9f3e17-eb81-4adb-8170-049bc6b66728,Carbon tetrachloride,Emission to air,low population density,000056-23-5,"R-10
+perchloromethane
+tetrachloromethane
+Freon 10
+Methane, tetrachloro-",CCl4,table
+0f9f3e17-eb81-4adb-8170-049bc6b66728,Carbon tetrachloride,Emission to air,low population density,000056-23-5,"R-10; perchloromethane; tetrachloromethane; Freon 10; Methane, tetrachloro-",CCl4,openLCA
+ba5c9458-44df-4d93-a7c3-9389f65166d8,Carbon tetrachloride,Emission to air,"low population density, long-term",000056-23-5,"Methane, tetrachloro-
+tetrachloromethane
+R-10
+perchloromethane
+Freon 10",CCl4,table
+ba5c9458-44df-4d93-a7c3-9389f65166d8,Carbon tetrachloride,Emission to air,"low population density, long-term",000056-23-5,"Methane, tetrachloro-; tetrachloromethane; R-10; perchloromethane; Freon 10",CCl4,openLCA
+86d12e70-0c64-4ecf-ba52-114fa0c5d402,Carbon tetrachloride,Emission to air,unspecified,000056-23-5,"perchloromethane
+Methane, tetrachloro-
+tetrachloromethane
+R-10
+Freon 10",CCl4,table
+86d12e70-0c64-4ecf-ba52-114fa0c5d402,Carbon tetrachloride,Emission to air,unspecified,000056-23-5,"perchloromethane; Methane, tetrachloro-; tetrachloromethane; R-10; Freon 10",CCl4,openLCA
+f7aa18e9-8ab1-5a12-a151-751526dcfce2,Bis(tributyltin) oxide,Emission to air,low population density,000056-35-9,,C24H54OSn2,openLCA
+88450279-48a0-59a4-97a0-d168923a0031,Bis(tributyltin) oxide,Emission to air,unspecified,000056-35-9,,C24H54OSn2,openLCA
+fca811d5-d0a7-5dfb-978a-f1d981c4b50a,Parathion,Emission to air,low population density,000056-38-2,,C10H14NO5PS,openLCA
+d8660dc6-9e4e-585e-b31d-3c970b52d2f6,Parathion,Emission to air,unspecified,000056-38-2,,C10H14NO5PS,openLCA
+5a4f1f3d-6dda-4f61-b7ee-88ed61f2152a,Benz(a)anthracene,Emission to air,low population density,000056-55-3,Tetraphene; benzo[a]anthracene,C18H12,openLCA
+4db9bb53-4bdd-4f32-a6a8-521f58c5825c,Benz(a)anthracene,Emission to air,unspecified,000056-55-3,benzo[a]anthracene; Tetraphene,C18H12,openLCA
+921df5eb-cde6-40ea-8744-c02746db0a3c,Cyanide,Emission to air,high population density,000057-12-5,"Cyanide ion
+Cyanide (-1)",CN-,table
+921df5eb-cde6-40ea-8744-c02746db0a3c,Cyanide,Emission to air,high population density,000057-12-5,Cyanide ion; Cyanide (-1),CN-,openLCA
+9e8d685c-9948-4dc0-9c0b-d5c511e14d05,Cyanide,Emission to air,low population density,000057-12-5,"Cyanide ion
+Cyanide (-1)",CN-,table
+9e8d685c-9948-4dc0-9c0b-d5c511e14d05,Cyanide,Emission to air,low population density,000057-12-5,Cyanide ion; Cyanide (-1),CN-,openLCA
+dd2177a3-a3ae-4b66-98f2-a85153cd9416,Cyanide,Emission to air,"low population density, long-term",000057-12-5,"Cyanide (-1)
+Cyanide ion",CN-,table
+dd2177a3-a3ae-4b66-98f2-a85153cd9416,Cyanide,Emission to air,"low population density, long-term",000057-12-5,Cyanide (-1); Cyanide ion,CN-,openLCA
+d3e038e1-728c-4dea-ac30-c9abbbfcbc84,Cyanide,Emission to air,unspecified,000057-12-5,"Cyanide ion
+Cyanide (-1)",CN-,table
+d3e038e1-728c-4dea-ac30-c9abbbfcbc84,Cyanide,Emission to air,unspecified,000057-12-5,Cyanide ion; Cyanide (-1),CN-,openLCA
+1b0ff6a7-7d3f-5167-8cb3-f179dba7107c,Metapa,Emission to air,low population density,000057-39-6,,C9H18N3OP,openLCA
+7996770a-2fa0-575b-944a-0b8718b2d5d6,Metapa,Emission to air,unspecified,000057-39-6,,C9H18N3OP,openLCA
+8b953e90-3d44-5f0f-98c8-814f7a2fa006,Alpha-lindane,Emission to air,low population density,000058-89-9,,C6H6Cl6,openLCA
+9acd62b8-2051-5ccb-aa96-907b3313788a,Alpha-lindane,Emission to air,unspecified,000058-89-9,,C6H6Cl6,openLCA
+19bc6cbe-37d7-5dd1-a4bd-0877d754f51f,Beta-lindane,Emission to air,low population density,000058-89-9,,C6H6Cl6,openLCA
+3b09ab66-a765-5465-9f0d-82de7c009c09,Beta-lindane,Emission to air,unspecified,000058-89-9,,C6H6Cl6,openLCA
+71710f8d-7f66-53ae-8624-aecb0f461b72,Delta-lindane,Emission to air,low population density,000058-89-9,,C6H6Cl6,openLCA
+96a52c05-522a-5215-b20e-dd673259875d,Delta-lindane,Emission to air,unspecified,000058-89-9,,C6H6Cl6,openLCA
+ac0d5750-4b04-5c58-a820-265cf76ad7ae,Lindane,Emission to air,low population density,000058-89-9,,C6H6Cl6,openLCA
+3607c86c-34d8-5a1a-98f5-271cd3265617,Lindane,Emission to air,unspecified,000058-89-9,,C6H6Cl6,openLCA
+89951b1a-9b6b-4bc7-82fc-6fc263e91936,Diethyl ether,Emission to air,high population density,000060-29-7,"ethoxyethane
+ether",C4H10O,table
+89951b1a-9b6b-4bc7-82fc-6fc263e91936,Diethyl ether,Emission to air,high population density,000060-29-7,ethoxyethane; ether,C4H10O,openLCA
+98f28ebe-22c0-4d0b-a2a2-2fcf910a91dd,Diethyl ether,Emission to air,low population density,000060-29-7,"ethoxyethane
+ether",C4H10O,table
+98f28ebe-22c0-4d0b-a2a2-2fcf910a91dd,Diethyl ether,Emission to air,low population density,000060-29-7,ethoxyethane; ether,C4H10O,openLCA
+7ae0a943-090b-4da6-899f-8c53a33a1db2,Diethyl ether,Emission to air,"low population density, long-term",000060-29-7,"ether
+ethoxyethane",C4H10O,table
+7ae0a943-090b-4da6-899f-8c53a33a1db2,Diethyl ether,Emission to air,"low population density, long-term",000060-29-7,ether; ethoxyethane,C4H10O,openLCA
+22524a35-32c0-482a-82f7-49724ad1c595,Diethyl ether,Emission to air,unspecified,000060-29-7,"ethoxyethane
+ether",C4H10O,table
+22524a35-32c0-482a-82f7-49724ad1c595,Diethyl ether,Emission to air,unspecified,000060-29-7,ethoxyethane; ether,C4H10O,openLCA
+c3de45a3-e6fd-494e-aa85-d352b478e87b,Acetamide,Emission to air,low population density,000060-35-5,,C2H5NO,table
+c3de45a3-e6fd-494e-aa85-d352b478e87b,Acetamide,Emission to air,low population density,000060-35-5,,C2H5NO,openLCA
+657d244c-3820-48cd-ac10-ebd0c0ee9703,Dimethoate,Emission to air,low population density,000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,table
+1a98cd22-4b8d-4a22-97a0-aa918ba8196c,Dimethoate,Emission to air,low population density,000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate; 2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,openLCA
+6d1613a4-9af4-5bb3-b159-ac480ee22c7e,Dimethoate,Emission to air,"low population density, long-term",000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,table
+9b7517da-bb9d-4e28-ad22-176545b1f684,Dimethoate,Emission to air,"low population density, long-term",000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate; 2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,openLCA
+f8dacb2c-6b05-5aa1-8fc8-40cda8bfc188,Dimethoate,Emission to air,unspecified,000060-51-5,"2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide
+O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",C5H12NO3PS2,table
+00b55d37-8eb5-4a65-9309-cd897f67084a,Dimethoate,Emission to air,unspecified,000060-51-5,"2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide; O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",C5H12NO3PS2,openLCA
+3bd03bc6-68d3-5daa-81a5-94c6c8542afc,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",Emission to air,low population density,000060-51-5,"Dimethoate
+2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,table
+cf62c02a-4367-5a70-8f32-ca14eb7d3800,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",Emission to air,low population density,000060-51-5,"Dimethoate
+3-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,openLCA
+777f45bb-52e1-5bbc-aa40-62a87b53a206,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",Emission to air,"low population density, long-term",000060-51-5,"Dimethoate
+4-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,table
+8c880730-50fd-5bf1-9698-6d151b03e5c7,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",Emission to air,"low population density, long-term",000060-51-5,"Dimethoate
+5-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,openLCA
+79def65c-bd77-4fb2-a1df-f4dba98ada8f,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",Emission to air,unspecified,000060-51-5,"Dimethoate
+6-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,table
+79def65c-bd77-4fb2-a1df-f4dba98ada8f,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",Emission to air,unspecified,000060-51-5,"Dimethoate
+7-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",C5H12NO3PS2,openLCA
+857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,Emission to air,low population density,000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+Dimethoate",C5H12NO3PS2,table
+857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,3-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,Emission to air,low population density,000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+Dimethoate",C5H12NO3PS2,openLCA
+cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,4-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,Emission to air,"low population density, long-term",000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+Dimethoate",C5H12NO3PS2,table
+cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,5-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,Emission to air,"low population density, long-term",000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+Dimethoate",C5H12NO3PS2,openLCA
+ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,6-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,Emission to air,unspecified,000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+Dimethoate",C5H12NO3PS2,table
+ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,7-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,Emission to air,unspecified,000060-51-5,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate
+Dimethoate",C5H12NO3PS2,openLCA

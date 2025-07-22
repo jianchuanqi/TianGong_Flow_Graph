@@ -1,0 +1,87 @@
+idx_a,idx_b,id_a,database_a,id_b,database_b,compartment,subcompartment,sim,rank
+0,1,20664d0e-24e3-4daa-8c5c-2ade6e0c2723,table,20664d0e-24e3-4daa-8c5c-2ade6e0c2723,openLCA,Emission to air,high population density,0.99999976,1
+2,3,9167dca7-615e-435c-8ba6-dbbf50e50e34,table,9167dca7-615e-435c-8ba6-dbbf50e50e34,openLCA,Emission to air,low population density,1.0000005,0
+4,5,1258b87f-6a94-4c0f-a51a-cef98a3bf534,table,1258b87f-6a94-4c0f-a51a-cef98a3bf534,openLCA,Emission to air,"low population density, long-term",1.0000008,0
+6,7,a861cfae-a310-4e9d-b9eb-5d555c9a684c,table,a861cfae-a310-4e9d-b9eb-5d555c9a684c,openLCA,Emission to air,unspecified,1.0000002,0
+8,9,7ad7644f-8796-438e-a15b-86345622886b,table,7ad7644f-8796-438e-a15b-86345622886b,openLCA,Emission to air,high population density,0.99963653,1
+10,11,d7000952-5775-43af-a422-ef7645f260d5,table,d7000952-5775-43af-a422-ef7645f260d5,openLCA,Emission to air,low population density,0.9999999,0
+12,13,ecc93a94-3bd5-4ecc-a6cc-d526e417c6fb,table,ecc93a94-3bd5-4ecc-a6cc-d526e417c6fb,openLCA,Emission to air,"low population density, long-term",1.0000001,0
+14,15,35a27f5c-487b-48c6-bfd5-0a2dbacf2045,table,35a27f5c-487b-48c6-bfd5-0a2dbacf2045,openLCA,Emission to air,unspecified,0.9999997,0
+18,34,c6b48901-2e98-5091-9005-4bdde53090ed,openLCA,37198238-6552-54b4-852f-6d037bca7033,openLCA,Emission to air,low population density,0.8077827,2
+20,21,2cbb504a-ce2f-40e9-9d38-e130e95a1242,table,2cbb504a-ce2f-40e9-9d38-e130e95a1242,openLCA,Emission to air,high population density,0.98247993,2
+22,23,81c4ba39-8a3f-4a43-97b4-401605bbebf5,table,81c4ba39-8a3f-4a43-97b4-401605bbebf5,openLCA,Emission to air,low population density,0.9837113,2
+24,25,32d98afc-e42b-46f6-b53e-9c949875ab20,table,32d98afc-e42b-46f6-b53e-9c949875ab20,openLCA,Emission to air,"low population density, long-term",0.98930484,1
+26,27,5e13c2ab-5466-4ff5-816d-702dfdf25f76,table,5e13c2ab-5466-4ff5-816d-702dfdf25f76,openLCA,Emission to air,unspecified,0.9811516,1
+36,54,7d2de00e-9ebc-4b51-b802-defc24ed6c27,openLCA,5a4f1f3d-6dda-4f61-b7ee-88ed61f2152a,openLCA,Emission to air,low population density,0.8274518,2
+37,55,23a4dfc7-c82e-4425-abf6-0195f78f3363,openLCA,4db9bb53-4bdd-4f32-a6a8-521f58c5825c,openLCA,Emission to air,unspecified,0.8127581,2
+40,52,318d384a-bc73-589e-ba28-ec58ce9d93b5,openLCA,fca811d5-d0a7-5dfb-978a-f1d981c4b50a,openLCA,Emission to air,low population density,0.8044798,2
+42,43,5c97dd6c-aaa5-4477-aaf8-dbd0674499c4,table,5c97dd6c-aaa5-4477-aaf8-dbd0674499c4,openLCA,Emission to air,high population density,0.94997716,3
+44,45,0f9f3e17-eb81-4adb-8170-049bc6b66728,table,0f9f3e17-eb81-4adb-8170-049bc6b66728,openLCA,Emission to air,low population density,0.9466356,4
+46,47,ba5c9458-44df-4d93-a7c3-9389f65166d8,table,ba5c9458-44df-4d93-a7c3-9389f65166d8,openLCA,Emission to air,"low population density, long-term",0.96032065,3
+48,49,86d12e70-0c64-4ecf-ba52-114fa0c5d402,table,86d12e70-0c64-4ecf-ba52-114fa0c5d402,openLCA,Emission to air,unspecified,0.96068543,1
+56,57,921df5eb-cde6-40ea-8744-c02746db0a3c,table,921df5eb-cde6-40ea-8744-c02746db0a3c,openLCA,Emission to air,high population density,0.98363364,2
+58,59,9e8d685c-9948-4dc0-9c0b-d5c511e14d05,table,9e8d685c-9948-4dc0-9c0b-d5c511e14d05,openLCA,Emission to air,low population density,0.98302364,2
+60,61,dd2177a3-a3ae-4b66-98f2-a85153cd9416,table,dd2177a3-a3ae-4b66-98f2-a85153cd9416,openLCA,Emission to air,"low population density, long-term",0.97299325,2
+62,63,d3e038e1-728c-4dea-ac30-c9abbbfcbc84,table,d3e038e1-728c-4dea-ac30-c9abbbfcbc84,openLCA,Emission to air,unspecified,0.98397803,1
+66,68,8b953e90-3d44-5f0f-98c8-814f7a2fa006,openLCA,19bc6cbe-37d7-5dd1-a4bd-0877d754f51f,openLCA,Emission to air,low population density,0.92030615,2
+66,72,8b953e90-3d44-5f0f-98c8-814f7a2fa006,openLCA,ac0d5750-4b04-5c58-a820-265cf76ad7ae,openLCA,Emission to air,low population density,0.90973765,3
+66,70,8b953e90-3d44-5f0f-98c8-814f7a2fa006,openLCA,71710f8d-7f66-53ae-8624-aecb0f461b72,openLCA,Emission to air,low population density,0.9001524,4
+67,69,9acd62b8-2051-5ccb-aa96-907b3313788a,openLCA,3b09ab66-a765-5465-9f0d-82de7c009c09,openLCA,Emission to air,unspecified,0.9091937,2
+67,73,9acd62b8-2051-5ccb-aa96-907b3313788a,openLCA,3607c86c-34d8-5a1a-98f5-271cd3265617,openLCA,Emission to air,unspecified,0.89570767,3
+67,71,9acd62b8-2051-5ccb-aa96-907b3313788a,openLCA,96a52c05-522a-5215-b20e-dd673259875d,openLCA,Emission to air,unspecified,0.8867582,4
+68,72,19bc6cbe-37d7-5dd1-a4bd-0877d754f51f,openLCA,ac0d5750-4b04-5c58-a820-265cf76ad7ae,openLCA,Emission to air,low population density,0.90288246,3
+68,70,19bc6cbe-37d7-5dd1-a4bd-0877d754f51f,openLCA,71710f8d-7f66-53ae-8624-aecb0f461b72,openLCA,Emission to air,low population density,0.88063717,4
+69,73,3b09ab66-a765-5465-9f0d-82de7c009c09,openLCA,3607c86c-34d8-5a1a-98f5-271cd3265617,openLCA,Emission to air,unspecified,0.89167655,3
+69,71,3b09ab66-a765-5465-9f0d-82de7c009c09,openLCA,96a52c05-522a-5215-b20e-dd673259875d,openLCA,Emission to air,unspecified,0.8661457,5
+70,72,71710f8d-7f66-53ae-8624-aecb0f461b72,openLCA,ac0d5750-4b04-5c58-a820-265cf76ad7ae,openLCA,Emission to air,low population density,0.89111733,3
+71,73,96a52c05-522a-5215-b20e-dd673259875d,openLCA,3607c86c-34d8-5a1a-98f5-271cd3265617,openLCA,Emission to air,unspecified,0.877839,3
+74,75,89951b1a-9b6b-4bc7-82fc-6fc263e91936,table,89951b1a-9b6b-4bc7-82fc-6fc263e91936,openLCA,Emission to air,high population density,0.9808049,2
+76,77,98f28ebe-22c0-4d0b-a2a2-2fcf910a91dd,table,98f28ebe-22c0-4d0b-a2a2-2fcf910a91dd,openLCA,Emission to air,low population density,0.983173,1
+78,79,7ae0a943-090b-4da6-899f-8c53a33a1db2,table,7ae0a943-090b-4da6-899f-8c53a33a1db2,openLCA,Emission to air,"low population density, long-term",0.9872712,1
+80,81,22524a35-32c0-482a-82f7-49724ad1c595,table,22524a35-32c0-482a-82f7-49724ad1c595,openLCA,Emission to air,unspecified,0.9814511,1
+82,83,c3de45a3-e6fd-494e-aa85-d352b478e87b,table,c3de45a3-e6fd-494e-aa85-d352b478e87b,openLCA,Emission to air,low population density,1.0000004,0
+84,85,657d244c-3820-48cd-ac10-ebd0c0ee9703,table,1a98cd22-4b8d-4a22-97a0-aa918ba8196c,openLCA,Emission to air,low population density,0.9817964,2
+84,90,657d244c-3820-48cd-ac10-ebd0c0ee9703,table,3bd03bc6-68d3-5daa-81a5-94c6c8542afc,table,Emission to air,low population density,0.97076,4
+84,91,657d244c-3820-48cd-ac10-ebd0c0ee9703,table,cf62c02a-4367-5a70-8f32-ca14eb7d3800,openLCA,Emission to air,low population density,0.9704614,5
+84,96,657d244c-3820-48cd-ac10-ebd0c0ee9703,table,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,table,Emission to air,low population density,0.95410055,9
+84,97,657d244c-3820-48cd-ac10-ebd0c0ee9703,table,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,openLCA,Emission to air,low population density,0.9516174,10
+85,90,1a98cd22-4b8d-4a22-97a0-aa918ba8196c,openLCA,3bd03bc6-68d3-5daa-81a5-94c6c8542afc,table,Emission to air,low population density,0.95286363,5
+85,91,1a98cd22-4b8d-4a22-97a0-aa918ba8196c,openLCA,cf62c02a-4367-5a70-8f32-ca14eb7d3800,openLCA,Emission to air,low population density,0.95232916,6
+85,96,1a98cd22-4b8d-4a22-97a0-aa918ba8196c,openLCA,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,table,Emission to air,low population density,0.92524374,10
+85,97,1a98cd22-4b8d-4a22-97a0-aa918ba8196c,openLCA,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,openLCA,Emission to air,low population density,0.9222533,11
+86,87,6d1613a4-9af4-5bb3-b159-ac480ee22c7e,table,9b7517da-bb9d-4e28-ad22-176545b1f684,openLCA,Emission to air,"low population density, long-term",0.9813304,2
+86,92,6d1613a4-9af4-5bb3-b159-ac480ee22c7e,table,777f45bb-52e1-5bbc-aa40-62a87b53a206,table,Emission to air,"low population density, long-term",0.969907,4
+86,93,6d1613a4-9af4-5bb3-b159-ac480ee22c7e,table,8c880730-50fd-5bf1-9698-6d151b03e5c7,openLCA,Emission to air,"low population density, long-term",0.9689552,5
+86,99,6d1613a4-9af4-5bb3-b159-ac480ee22c7e,table,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,openLCA,Emission to air,"low population density, long-term",0.9523216,10
+86,98,6d1613a4-9af4-5bb3-b159-ac480ee22c7e,table,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,table,Emission to air,"low population density, long-term",0.95224684,11
+87,92,9b7517da-bb9d-4e28-ad22-176545b1f684,openLCA,777f45bb-52e1-5bbc-aa40-62a87b53a206,table,Emission to air,"low population density, long-term",0.95197594,5
+87,93,9b7517da-bb9d-4e28-ad22-176545b1f684,openLCA,8c880730-50fd-5bf1-9698-6d151b03e5c7,openLCA,Emission to air,"low population density, long-term",0.9518347,6
+87,99,9b7517da-bb9d-4e28-ad22-176545b1f684,openLCA,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,openLCA,Emission to air,"low population density, long-term",0.92666936,10
+87,98,9b7517da-bb9d-4e28-ad22-176545b1f684,openLCA,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,table,Emission to air,"low population density, long-term",0.9256089,11
+88,89,f8dacb2c-6b05-5aa1-8fc8-40cda8bfc188,table,00b55d37-8eb5-4a65-9309-cd897f67084a,openLCA,Emission to air,unspecified,0.9731382,1
+88,94,f8dacb2c-6b05-5aa1-8fc8-40cda8bfc188,table,79def65c-bd77-4fb2-a1df-f4dba98ada8f,table,Emission to air,unspecified,0.9555985,3
+88,95,f8dacb2c-6b05-5aa1-8fc8-40cda8bfc188,table,79def65c-bd77-4fb2-a1df-f4dba98ada8f,openLCA,Emission to air,unspecified,0.95451564,4
+88,100,f8dacb2c-6b05-5aa1-8fc8-40cda8bfc188,table,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,table,Emission to air,unspecified,0.94898593,6
+88,101,f8dacb2c-6b05-5aa1-8fc8-40cda8bfc188,table,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,openLCA,Emission to air,unspecified,0.9457025,7
+89,94,00b55d37-8eb5-4a65-9309-cd897f67084a,openLCA,79def65c-bd77-4fb2-a1df-f4dba98ada8f,table,Emission to air,unspecified,0.9325453,6
+89,95,00b55d37-8eb5-4a65-9309-cd897f67084a,openLCA,79def65c-bd77-4fb2-a1df-f4dba98ada8f,openLCA,Emission to air,unspecified,0.9310019,7
+89,100,00b55d37-8eb5-4a65-9309-cd897f67084a,openLCA,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,table,Emission to air,unspecified,0.91337997,10
+89,101,00b55d37-8eb5-4a65-9309-cd897f67084a,openLCA,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,openLCA,Emission to air,unspecified,0.9114009,11
+90,91,3bd03bc6-68d3-5daa-81a5-94c6c8542afc,table,cf62c02a-4367-5a70-8f32-ca14eb7d3800,openLCA,Emission to air,low population density,0.9981664,1
+90,96,3bd03bc6-68d3-5daa-81a5-94c6c8542afc,table,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,table,Emission to air,low population density,0.96407604,8
+90,97,3bd03bc6-68d3-5daa-81a5-94c6c8542afc,table,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,openLCA,Emission to air,low population density,0.9613461,9
+91,97,cf62c02a-4367-5a70-8f32-ca14eb7d3800,openLCA,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,openLCA,Emission to air,low population density,0.96489036,7
+91,96,cf62c02a-4367-5a70-8f32-ca14eb7d3800,openLCA,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,table,Emission to air,low population density,0.9626325,9
+92,93,777f45bb-52e1-5bbc-aa40-62a87b53a206,table,8c880730-50fd-5bf1-9698-6d151b03e5c7,openLCA,Emission to air,"low population density, long-term",0.9981434,1
+92,98,777f45bb-52e1-5bbc-aa40-62a87b53a206,table,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,table,Emission to air,"low population density, long-term",0.96374154,8
+92,99,777f45bb-52e1-5bbc-aa40-62a87b53a206,table,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,openLCA,Emission to air,"low population density, long-term",0.9619556,11
+93,99,8c880730-50fd-5bf1-9698-6d151b03e5c7,openLCA,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,openLCA,Emission to air,"low population density, long-term",0.96299964,8
+93,98,8c880730-50fd-5bf1-9698-6d151b03e5c7,openLCA,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,table,Emission to air,"low population density, long-term",0.95970505,11
+94,95,79def65c-bd77-4fb2-a1df-f4dba98ada8f,table,79def65c-bd77-4fb2-a1df-f4dba98ada8f,openLCA,Emission to air,unspecified,0.99688995,1
+94,100,79def65c-bd77-4fb2-a1df-f4dba98ada8f,table,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,table,Emission to air,unspecified,0.95913935,6
+94,101,79def65c-bd77-4fb2-a1df-f4dba98ada8f,table,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,openLCA,Emission to air,unspecified,0.957447,7
+95,101,79def65c-bd77-4fb2-a1df-f4dba98ada8f,openLCA,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,openLCA,Emission to air,unspecified,0.96342176,6
+95,100,79def65c-bd77-4fb2-a1df-f4dba98ada8f,openLCA,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,table,Emission to air,unspecified,0.9554706,7
+96,97,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,table,857e2a6a-7072-4d9d-8c0b-707fdc2bcbc0,openLCA,Emission to air,low population density,0.9909667,1
+98,99,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,table,cbad8aa1-0cfe-47c0-b7d5-7b58c433e601,openLCA,Emission to air,"low population density, long-term",0.9933271,1
+100,101,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,table,ffcd4d88-aeb9-491c-ae8c-98838ed38b4d,openLCA,Emission to air,unspecified,0.9869565,1
