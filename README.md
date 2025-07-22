@@ -8,7 +8,9 @@ This project provides a full workflow for data processing, knowledge graph const
 
 Python 3.8+ is recommended.
 
+```bash
 pip install -r requirements.txt
+```
 
 ### Configure Environment Variables (.env)
 
@@ -45,18 +47,17 @@ docker run -d \
 Run python scripts from 1 to 6.
 
 ```bash
-python 1_data_processing.py
-python 2_knowledge_graph.py
-python 3_vector_embedding.py
-python 4_similarity_calculation.py
-python 5_llm_judgment.py
-python 6_main.py
+python 1_data_processing.py //process data
+python 2_knowledge_graph.py //build knowledge graph
+python 3_vector_embedding.py //generate vector embeddings
+python 4_similarity_calculation.py //calculate similarities
+python 5_llm_judgment.py //perform LLM-based judgment
+python 6_same_as.py //identify same-as relationships for entity resolution
 ```
 
 ### Start FastAPI
 
 Run the FastAPI server:
-
 ```bash
 uvicorn 7_main:app --reload
 ```
